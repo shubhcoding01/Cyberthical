@@ -4,7 +4,7 @@
 
 **Cyberthical is a modern, all-in-one web platform designed to make cybersecurity knowledge accessible, practical, and community-driven. This project was built using a powerful, modern tech stack including Next.js, React, TypeScript, and Google's Generative AI.**
 
-**[Live Demo Link Here]** *(<- Link to your live website)*
+**https://cyberthical.com/** *
 
 ---
 
