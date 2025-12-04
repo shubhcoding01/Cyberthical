@@ -1,6 +1,6 @@
 # Cyberthical — AI-Powered Cybersecurity Hub
 
-![Cyberthical Hero Image](https://ibb.co/4CCdrps)
+<a href="https://ibb.co/4CCdrps"><img src="https://i.ibb.co/X668Rty/Screenshot-2025-12-03-221326.png" alt="Screenshot-2025-12-03-221326" border="0"></a>
 
 **Cyberthical is a modern, all-in-one web platform designed to make cybersecurity knowledge accessible, practical, and community-driven. This project was built using a powerful, modern tech stack including Next.js, React, TypeScript, and Google's Generative AI.**
 
